@@ -1,0 +1,37 @@
+{
+  "title": "",
+  "image": "",
+  "price": "",
+  "id": 0,
+  "images": [],
+  "quatity": 0,
+  "cartCount": 0,
+  "details": {
+    "ref": {
+      "title": "",
+      "desc": ""
+    },
+
+    "CompositionAndCare": {
+      "composition": ["", ""],
+      "care": {
+        "title": "",
+        "careInfo": {
+          "wash": "",
+          "bleach": "",
+          "iron": "",
+          "dryClean": "",
+          "tumble": ""
+        }
+      },
+      "traceability": {
+        "title": "",
+        "traceabilityInfo": {
+          "weaving": "",
+          "production": ""
+        }
+      },
+      "packaging": ""
+    }
+  }
+}
